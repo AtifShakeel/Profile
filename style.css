@@ -2,3 +2,18 @@
     width: 5px !important;
     color: rgb(255, 0, 0);
 }
+
+.fieldset{
+    border-radius: 25px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+.legend {
+    text-align: center;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
